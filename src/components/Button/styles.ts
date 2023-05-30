@@ -26,6 +26,8 @@ export const BtnLinkSecundario = styled(ButtonLink)`
   padding: 4px 6px;
   text-decoration: none;
   margin: 8px;
-  width: 304px;
+  width: 304px !important;
   font-weight: 700;
+  display: inline-block;
+  text-align: center;
 `

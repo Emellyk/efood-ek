@@ -1,11 +1,11 @@
 import styled from 'styled-components'
-import { cores } from '../../styles'
 
 import { Props } from '.'
 import { BtnLinkSecundario } from '../Button/styles'
 import { Container } from '../ProductList/styles'
+import { cores } from '../../styles'
 
-export const BgHero = styled.header<Props>`
+export const BgHero = styled.header`
   width: 100%;
   height: 186px;
   align-items: center;
